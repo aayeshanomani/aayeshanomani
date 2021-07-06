@@ -34,9 +34,6 @@ Experienced over 5 years in: Java, C++, MySQL, Node.js
 <br/>
 Ambition: Software Development Engineer | Freelancer
 </p>
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ Quick Facts
 
@@ -83,7 +80,7 @@ I would love if you:
 or [![Gmail](https://img.shields.io/badge/-aayeshanomani@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aayeshanomanig001@gmail.com)](mailto:aayeshanomani@gmail.com)
 or [![Fiverr](https://img.shields.io/badge/-Aayesha-Nomani?style=flat-square&logo=Fiverr&logoColor=white&link=https://fiverr.com/aayeshanomani)](https://fiverr.com/aayeshanomani)
 
-❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aayeshanomani?label=Follow&style=social)](https://github.com/aayeshanomani/?tab=follow) and [![Twitter](https://img.shields.io/badge/-NomaniAayesha?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NomaniAayesha)](https://twitter.com/NomaniAayesha)
+❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aayeshanomani?label=Follow&style=social)](https://github.com/aayeshanomani/?tab=follow) and [![Twitter](https://img.shields.io/badge/-Aayesha-Nomani-blue?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NomaniAayesha)](https://twitter.com/NomaniAayesha)
 
 
 ❤️ Connect with me : [![Linkedin](https://img.shields.io/badge/-Aayesha-Nomani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayesha-nomani-09031016b/)](https://www.linkedin.com/in/aayesha-nomani-09031016b/)
