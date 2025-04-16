@@ -37,7 +37,7 @@ Ambition: Software Development Engineer | Freelancer
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Freelancer @ [Fiverr](https://fiverr.com/aayeshanomani)
+- 👨🏽‍💻 I’m currently working as a Freelancer @ [Upwork](https://www.upwork.com/freelancers/~01af595d5447bf4b8a)
 - 🌱 I’m currently learning Game Development with Unity3D.
 
 - 💬 Ask me anything related to JS, React, Flutter, Firebase, MongoDB.
